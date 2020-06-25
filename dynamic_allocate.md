@@ -6,7 +6,7 @@
 - new和delete的使用
 - allocator类的使用
 
-代码： 
+代码： https://github.com/WenTao-Rong/CppNote/tree/master/dynamic_allocate
 
 #### 动态内存和智能指针
 
